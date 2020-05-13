@@ -1,0 +1,35 @@
+body {
+    background-image: url( https://www.guiadoturismobrasil.com/up/img/1440557975.jpg);
+    background-size: 700px 500px;
+    font-family: helvetica; 
+  } 
+  
+  .menu { 
+    Background-color: white; 
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around; 
+  }
+  
+  .menu li{
+    list-style: none
+  }
+  
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  a: hover {
+    text-decoration: underline;
+  }
+  
+  .site title {
+    text-align: center;
+      color: whitesmoke;
+  }
+  
+  
+  
